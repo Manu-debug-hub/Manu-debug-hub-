@@ -51,7 +51,7 @@ Fifth Exercise: Table
 |-------------|-----------|--------------------------|
 | google drive| storage   | https://www.google.com   |
 | YouTube     |Social media| https://YouTube.com     |
-| google docs | Documentation| https://google docs.com|
+| google docs | Documentation| https://docs.google.com|
 
 
 Sixth Exercise: Task Lists
@@ -78,12 +78,11 @@ Eighth Exercise: Blockquote
 ###About me:
 ---
 
-> I like gaming and appreciating life as it is, I became intested in computers through gaming like *Nfs,gta,call of duty and others*.I once asked my self how does the computer work from the 1.motherboard
+> I like gaming and appreciating life as it is, I became intested in computers through gaming like *Nfs,gta,call of duty and others*.I once asked my self how does the computer work from the 1.moth[...]
  
 2. the ssd and the power supply
 3. the keyboard,the mouse
 4. the OS
 
    I started to be interested to know how they function to make a computer.The areas i got answers were [Link](https://YouTube.com) and many others.
-
 
