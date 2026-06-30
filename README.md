@@ -10,7 +10,7 @@
 - C,GO,RUST,C plus plus, Java Script
 
 ## Current Projects
-- [Creating a repository and profile(https://github.com/Manu-debug-hub/Balance-.git)
+- Creating a repository and profile(https://github.com/Manu-debug-hub/Balance-.git)
 
 ## How to Reach Me
 - Email: emmanuelbomb17@gmail.com
