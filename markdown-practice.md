@@ -41,13 +41,14 @@
 | Google Drive| Storage        | https://www.google.com   |
 | YouTube     | Social media   | https://YouTube.com      |
 | Google Docs | Documentation  | https://docs.google.com  |
+| vs code     | code editor| https://vscode.com     |
 
 ## Sixth Exercise: Task Lists
 
 - [ ] Computer Programming 
 - [ ] Dev Ops
 - [ ] LLM fluent
-
+- [ ] Networking 
 ## Seventh Exercise: Code Block
 
 ```java
