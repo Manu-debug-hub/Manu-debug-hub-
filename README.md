@@ -1,4 +1,4 @@
-# Hi, I'm [Emmanuel Mwangangi]
+# Hi, I'm Emmanuel Mwangangi
 
 ## About Me
 - I'm currently learning [Computer Programming At IYF]
